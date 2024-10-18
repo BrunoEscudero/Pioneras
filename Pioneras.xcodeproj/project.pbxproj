@@ -13,6 +13,7 @@
 		C7B66D412CC2CCF10047C3BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7B66D3F2CC2CCF10047C3BC /* Main.storyboard */; };
 		C7B66D432CC2CCF40047C3BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7B66D422CC2CCF40047C3BC /* Assets.xcassets */; };
 		C7B66D462CC2CCF40047C3BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7B66D442CC2CCF40047C3BC /* LaunchScreen.storyboard */; };
+		C7DD23B92CC2DD2600B79926 /* SecundarioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7DD23B82CC2DD2600B79926 /* SecundarioViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C7B66D422CC2CCF40047C3BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7B66D452CC2CCF40047C3BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7B66D472CC2CCF40047C3BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7DD23B82CC2DD2600B79926 /* SecundarioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecundarioViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C7B66D422CC2CCF40047C3BC /* Assets.xcassets */,
 				C7B66D442CC2CCF40047C3BC /* LaunchScreen.storyboard */,
 				C7B66D472CC2CCF40047C3BC /* Info.plist */,
+				C7DD23B82CC2DD2600B79926 /* SecundarioViewController.swift */,
 			);
 			path = Pioneras;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7B66D3E2CC2CCF10047C3BC /* ViewController.swift in Sources */,
+				C7DD23B92CC2DD2600B79926 /* SecundarioViewController.swift in Sources */,
 				C7B66D3A2CC2CCF10047C3BC /* AppDelegate.swift in Sources */,
 				C7B66D3C2CC2CCF10047C3BC /* SceneDelegate.swift in Sources */,
 			);
